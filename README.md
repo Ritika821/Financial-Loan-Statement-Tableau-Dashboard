@@ -3,7 +3,7 @@
 
 ## Introduction :
 
-This is about the Financial Loan Statement of a Bank of United Sates. This contains Borrower's Id, Address State of the Borrower's, Application Type, Borrower's employment length, Borrower's Employment title, Creditworthiness Grade, Subgrade, Borrower's home ownership, Issue Date, Loan Status, Purpose, Term of Loan, Id verification status, Borrower's Annual Income, Debt to Income Ratio, Installment, Interest Rate, Loan Amount and Total Payment. This project include skills like Dashboard, Tableau, MTD, PMTD, MoM, KPI, Data Visualisation Techniques, Calculated Fields, Buttons, Progress Chart, Lollipop Chart, Bar Chart, Map Chart, Data Cleaning, and Filters It gives KPIs like Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate and Average Debt to Income Ratio. This Dashboard consist of 3 page Overview, Detail and Summary. In this we have compared between Good Loan and Bad Loan issued by Borrowers, Total Loan Applications and Purpose, State, Month, Term, Employement Length and home ownership.
+This is about the Financial Loan Statement of a Bank of United Sates. This contains Borrower's Id, Address State of the Borrower's, Application Type, Borrower's employment length, Borrower's Employment title, Creditworthiness Grade, Subgrade, Borrower's home ownership, Issue Date, Loan Status, Purpose, Term of Loan, Id verification status, Borrower's Annual Income, Debt to Income Ratio, Installment, Interest Rate, Loan Amount and Total Payment. This project include skills like Dashboard, Tableau, MTD, PMTD, MoM, KPI, Data Visualisation Techniques, Calculated Fields, Buttons, Progress Chart, Lollipop Chart, Bar Chart, Map Chart, Data Cleaning, and Filters It gives KPIs like Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate and Average Debt to Income Ratio. This Dashboard consist of 3 page Overview, Detail and Summary. In this we have compared between Good Loan and Bad Loan issued by Borrowers, Total Loan Applications and Purpose, State, Month, Term, Employment Length and home ownership.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Financial%20Loan.jpg" width="700" height="300">
@@ -65,25 +65,25 @@ In this Report, I have used three dashboards and those are controlled by Buttons
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Summary/Bad%20Loand%20Issued.png" width="400" height="200">
 </a></p>
 
-3. This is a Table of Loan Status means Charged Off, Current or Fully Paid. In this I have comparison between these three Loan Status then I found that Fully Paid type Applications are more than other two applicatons. Therefore its Average Interest Rate and Average Debt to Income Ratio is less than others. Current Loan type is less than other therefore its Average Interest Rate and Average Debt to Income Ratio is high.
+3. This is a Table of Loan Status means Charged Off, Current or Fully Paid. In this I have comparison between these three Loan Status then I found that Fully Paid type Applications are more than other two applications. Therefore its Average Interest Rate and Average Debt to Income Ratio is less than others. Current Loan type is less than other therefore its Average Interest Rate and Average Debt to Income Ratio is high.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Summary/Loan%20Status.png" height="200">
 </a></p>
 
-4. This is an Area Chart, from which I got that from January there is slightly decline till Feburary then afterward there is rapid growth in the total Application till last month. From 2.3K in January it became 4.3K till December.
+4. This is an Area Chart, from which I got that from January there is slightly decline till February then afterward there is rapid growth in the total Application till last month. From 2.3K in January it became 4.3K till December.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Overview/Total%20Application%20by%20Months.png" width="400" height="200">
 </a></p>
 
-5. In this Map Chart, I got that California (CA) has maximum loan applications than other states followed by New York (NY) and Florida (FL) whereas Maine (ME) has the least laon applications followed by Nebraska (NE) and Iowa (IA).
+5. In this Map Chart, I got that California (CA) has maximum loan applications than other states followed by New York (NY) and Florida (FL) whereas Maine (ME) has the least loan applications followed by Nebraska (NE) and Iowa (IA).
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Overview/Total%20Application%20by%20States.png" width="400" height="200">
 </a></p>
 
-6. In the Donut Chart, I have presented two types of term of loan i.e. 36 months and 60 months and I came to know from this Chart is that people motly borrow loan for 36 months, mean out of total applications, 28.2K applications are for 36 months and rest 10.3K applications are for 60 months.
+6. In the Donut Chart, I have presented two types of term of loan i.e. 36 months and 60 months and I came to know from this Chart is that people mostly borrow loan for 36 months, mean out of total applications, 28.2K applications are for 36 months and rest 10.3K applications are for 60 months.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Overview/Total%20Application%20by%20Term.png" width="200" height="200">
@@ -95,7 +95,7 @@ In this Report, I have used three dashboards and those are controlled by Buttons
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Overview/Total%20Application%20by%20Employment%20Length.png" width="400" height="200">
 </a></p>
 
-8. In this I have used Horizontal Lollipop Chart that displays the comparison between the purpose of loan on the basis of total loan applications in which I found that people mostly borrow loan for the purpose of Debt Consolidation followed by Credit Card whereas rarely they borrow for renewable_energy, education and vacation.
+8. In this I have used Horizontal Lollipop Chart that displays the comparison between the purpose of loan on the basis of total loan applications in which I found that people mostly borrow loan for the purpose of Debt Consolidation followed by Credit Card whereas rarely they borrow for renewable energy, education and vacation.
 
 <p align="center">
 <a><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Overview/Total%20Application%20by%20Purpose.png" width="400" height="200">
