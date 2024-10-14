@@ -23,6 +23,14 @@ This is about the Financial Loan Statement of a Bank of United Sates. This conta
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Dashboard :
+
+<p>
+  <a href="https://public.tableau.com/views/FinancialLoanStatementDashboard/Summary?:showVizHome=no&:embed=true"><img src="https://github.com/Ritika821/Financial-Loan-Statement-Tableau-Dashboard/blob/main/Graph/Dashboard.png"/>
+  </a>
+</p>
+
+
 ## Project KPI :
 
 In this Project, I have generated measures like Total Loan Applications i.e. 38.6K, its Month till Date is 4.3K and Month over Month is 6.9%, Total Funded Amount i.e. $435.8M, its Month till Date is $54.0M and Month over Month is 13.0%, Total Amount Received i.e. $473.1M, its Month till Date is $58.1M and Month over Month is 15.8%, Average Interest Rate i.e. 12.05%, its Month till Date is 12.4% and Month over Month is 3.5% and finally Average Debt to Income Ratio i.e. 13.33%, its Month till Date is 13.7% and Month over Month is 2.7%. In this Month over Month is calculated by (Current MTD - Previous MTD)/Previous MTD.
